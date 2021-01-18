@@ -6,7 +6,7 @@ body{
     font-size: 23px;
 }
 .container {
-    width: 1000px;
+    width: 1200px;
     margin: 0 auto;
     min-height: 1000px;
     background-image: url('../LetItBe_0.jpg');
@@ -26,11 +26,28 @@ body{
 }
 #john{
     margin-left: 119px;
-    padding-top: 400px;
+    padding-top: 410px;
     padding-left: 265px;
 }
 #john .naam{
-    padding-left: 98;
+    margin-left: 98px;
+}
+#paul{
+    margin-left: 608px;
+    margin-top: -468px;
+    padding-top: 380px;
+    padding-right:260px;
+    padding-bottom: 30px;
+}
+#ringo {
+    margin-left: 119px;
+    margin-top: 18px;
+    padding-top: 3px;
+    padding-left: 265px;
+    padding-bottom: 405px;
+}
+#ringo .naam{
+    margin-left: 98px;
 }
 h3, p{
     margin: 0;
