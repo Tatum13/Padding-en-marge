@@ -11,9 +11,17 @@ body{
     min-height: 1000px;
     background-image: url('../LetItBe_0.jpg');
     color:white;
+    padding-top: 154px;
 }
-section{
-    background-color: rgba(255, 0, 0.81);
+.beatle{
+    background-color: rgba(255, 0, 0, 0.81);
+    width: 200px;
+    cursor: pointer;
+}
+#john{
+    margin-left: 119px;
+    padding-top: 410px;
+    padding-left: 265px;
 }
 h3, p{
     margin: 0;
@@ -22,4 +30,4 @@ h3, p{
 .naam {
     border-left: solid 7px red;
     padding-left: 9px;
-}s
+}
