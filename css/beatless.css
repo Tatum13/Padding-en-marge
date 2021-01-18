@@ -18,10 +18,19 @@ body{
     width: 200px;
     cursor: pointer;
 }
+.beatle .naam{
+    /*opacity: 0;*/
+}
+.beatle:hover .naam{
+    opacity: 1;
+}
 #john{
     margin-left: 119px;
-    padding-top: 410px;
+    padding-top: 400px;
     padding-left: 265px;
+}
+#john .naam{
+    padding-left: 98;
 }
 h3, p{
     margin: 0;
